@@ -8,7 +8,7 @@ class Solution:
         return hash_array
 
 # Take user input for the size of the array
-n = int(input("enter the size if the array: "))
+n = int(input("enter the size of the array: "))
 # Take user input for the characters and split into a list
 arr = list(input("enter characters: ").split())
 
